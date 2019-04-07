@@ -16,7 +16,7 @@
     "electron-updater": "^3.1.2"
   },
   "build": {
-    "appId": "com.github.iffy.electronupdaterexample",
+    "appId": "com.github.liris-tech.electronupdaterexample",
     "mac": {
       "category": "your.app.category.type",
       "target": [
